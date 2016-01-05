@@ -12,9 +12,9 @@ Studio enables you to work with Subversion (SVN) in two ways: you can save your 
  image:InstallNewSoftware+copy.png[InstallNewSoftware+copy]
 +
 . In the *Available Software* panel, click *Add* and provide the following name and URL. +
- *Note*: Use "1.8.x" as shown (the .x is not a placeholder): +
+ *Note*: Use "1.12.x" as shown (the .x is not a placeholder): +
  +
-`Subclipse Update Site – http://subclipse.tigris.org/update_1.8.x ` +
+`Subclipse Update Site – http://subclipse.tigris.org/update_1.12.x ` +
  +
  image:subeclipse_select.png[subeclipse_select]
 +
